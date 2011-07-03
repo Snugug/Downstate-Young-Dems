@@ -1,0 +1,14 @@
+; $Id: mediaelement.info,v 1.2 2010/09/03 19:37:31 mfer Exp $
+name = "MediaElement.js"
+description = "Provide MediaElement.js to be used on the entire site or just with Filefields."
+core = 7.x
+dependencies[] = libraries
+files[] = mediaelement.admin.inc
+files[] = mediaelement.install
+files[] = mediaelement.module
+; Information added by drupal.org packaging script on 2011-01-14
+version = "7.x-1.0"
+core = "7.x"
+project = "mediaelement"
+datestamp = "1295021536"
+
